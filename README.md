@@ -7,3 +7,5 @@ Features include :
 - Status managment
 - Sending a request to the new user
 - Settings
+
+![347](https://user-images.githubusercontent.com/38628677/86413670-3e75f900-bcdb-11ea-9708-32ad9a596a45.jpg)
